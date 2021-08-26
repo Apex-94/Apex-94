@@ -21,7 +21,7 @@
 	hobbies = [
         'Watching F1',
         'Coding',
-	'Drawing',
+		'Drawing',
 		]
 				]
 	
@@ -31,7 +31,7 @@
  *Working up on polishing my skills 🌱 in **Competitive Programming**.
  
 ## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/14yw2pzvkyNULG09ZUQzy7AAEINORihjV/view?usp=sharing)
+  - :octocat: [My Resume](https://drive.google.com/file/d/1R_FTJfJrnUuv9_2GyDde97wFumbvYZx5/view?usp=sharing)
   - If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!!:grimacing: )
 
  
