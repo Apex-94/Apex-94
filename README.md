@@ -19,9 +19,10 @@
  	user = 'Aahil Kazi'
 	current_edu = "Mumbai University"
 	hobbies = [
-        'Watching F1'
-        'Coding'
-		'Drawing',
+        'Watching F1',
+        'Coding',
+	'Drawing',
+		]
 				]
 	
  ```
