@@ -21,9 +21,8 @@
 	hobbies = [
         'Watching F1'
         'Coding'
-				'Drawing',
-				'Watching Anime',
-			]
+	'Drawing',
+				]
 	
  ```
  
